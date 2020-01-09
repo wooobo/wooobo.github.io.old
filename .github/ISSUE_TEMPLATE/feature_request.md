@@ -1,33 +1,21 @@
 ---
 name: Feature Request
 about: Suggest an idea for this project
-labels: enhancement
+labels: feature-suggestion
 ---
 
-**NOTE:** Before you start, the following should be completed.
+<!-- Please make sure your request does not appear in other existing issues (including closed ones). Thanks for your cooperation. Now, I can't wait to listen your idea! -->
 
-- Read [Wiki][wiki] to understand the usage and the correct effect of functional design.
-- Make sure no [similar issue(including closed ones)][issues] exists.
-- Make sure the request is based on the latest code in the `master` branch.
 
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[issues]: https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue
-
-## Is your feature request related to a problem? Please describe
-
+**Is your feature request related to a problem? Please describe.**
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
-
-## Describe the solution you'd like
-
+**Describe the solution you'd like**
 <!-- A clear and concise description of what you want to happen. -->
 
-
-## Describe alternatives you've considered
-
+**Describe alternatives you've considered**
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
 
-## Additional context
-
+**Additional context**
 <!-- Add any other context or screenshots about the feature request here. -->
