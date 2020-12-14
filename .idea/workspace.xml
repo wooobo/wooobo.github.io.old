@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- site name change">
-      <change afterPath="$PROJECT_DIR$/script.sh" afterDir="false" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- add script.sh">
+      <change afterPath="$PROJECT_DIR$/_pages/page-a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/마크다운정리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/slow-steady-blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/slow-steady-blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +17,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ld3ad9EoFKZAjBF1gK3JA0vsto" />
@@ -22,10 +34,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -38,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607913207703</updated>
-      <workItem from="1607913209429" duration="675000" />
+      <workItem from="1607913209429" duration="4951000" />
+      <workItem from="1607922866942" duration="3997000" />
     </task>
     <task id="LOCAL-00001" summary="- commit">
       <created>1607913602990</created>
@@ -61,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607913867621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- add script.sh">
+      <created>1607913935224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607913935224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,10 +103,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- commit" />
     <MESSAGE value="- site name change" />
-    <option name="LAST_COMMIT_MESSAGE" value="- site name change" />
+    <MESSAGE value="- add script.sh" />
+    <option name="LAST_COMMIT_MESSAGE" value="- add script.sh" />
   </component>
 </project>
