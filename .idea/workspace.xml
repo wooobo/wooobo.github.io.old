@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- add script.sh">
-      <change afterPath="$PROJECT_DIR$/_pages/page-a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/마크다운정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/slow-steady-blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/slow-steady-blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- config 설정">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607913207703</updated>
       <workItem from="1607913209429" duration="4951000" />
-      <workItem from="1607922866942" duration="3997000" />
+      <workItem from="1607922866942" duration="4123000" />
     </task>
     <task id="LOCAL-00001" summary="- commit">
       <created>1607913602990</created>
@@ -87,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607913935224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- 첫번째 게시글 등록">
+      <created>1607958853006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607958853006</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +109,8 @@
     <MESSAGE value="- commit" />
     <MESSAGE value="- site name change" />
     <MESSAGE value="- add script.sh" />
-    <option name="LAST_COMMIT_MESSAGE" value="- add script.sh" />
+    <MESSAGE value="- 첫번째 게시글 등록" />
+    <MESSAGE value="- config 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="- config 설정" />
   </component>
 </project>
