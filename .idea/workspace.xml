@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- config 설정" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="-">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
