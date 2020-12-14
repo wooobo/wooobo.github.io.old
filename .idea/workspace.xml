@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="-">
+      <change afterPath="$PROJECT_DIR$/_posts/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kafka-service.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" afterDir="false" />
     </list>
@@ -39,6 +42,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/kafka" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -96,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607958948836</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-">
+      <created>1607959866135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607959866135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +133,7 @@
     <MESSAGE value="- add script.sh" />
     <MESSAGE value="- 첫번째 게시글 등록" />
     <MESSAGE value="- config 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="- config 설정" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
