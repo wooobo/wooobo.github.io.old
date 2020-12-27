@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- 도대체 카프카란?(1) 포스트 추가">
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- 도대체 카프카란?(1) 포스트 수정">
+      <change afterPath="$PROJECT_DIR$/_drafts/2020-12-23-zookeeper-properties.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/customsplash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/kafka/2020-12-20-kafka-quick-start.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/kafka/2020-12-21-kafka-partition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/kafka/2020-12-22-kafka-consumer-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/consumer-group-producer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/consumer-group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kafka-basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kafka-offset-lag.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-15-차근차근-꾸준히-블로그-작성을-시작해보자.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/kafka/2020-12-15-what-is-kafka-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +39,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_drafts" />
       <recent name="$PROJECT_DIR$/_posts/kafka" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images" />

@@ -1,10 +1,8 @@
 ---
-title: "도대체 카프카란?(1)"
-layout: archive
+title: "도대체 카프카란?"
+layout: customsplash
 date: 2020-12-15
 ---
-
--------------------------------------------------
 
 ## 카프카를 알게 된 계기
 
@@ -65,16 +63,13 @@ date: 2020-12-15
 1. Producer
    - 프로듀서, 브로커로 메시지를 전달합니다.
 1. Consumer
-   - 컨슈머, 브로커로 부터 토픽(이벤트)를 전달받아 받습니다.   
+   - 컨슈머, 브로커로 부터 토픽(이벤트)를 전달 받습니다.   
      브로커가 컨슈머에게 전달하는것은 아니고, 컨슈머가 토픽을 감시하고 있는 형태입니다.
 1. Topic
    - 토픽, 이벤트라고 보면됩니다.
 
 이외에도 partition,offset,replication factor,consumer group,cluster,Kafka Connect,Kafka Stream 등등 알아 볼것이 많습니다!  
 
-
-이상 오늘 공부한 내용!
-끗~
 
 ----------
 
