@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- seo추가">
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="- seo변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -59,6 +59,8 @@
       <workItem from="1607913209429" duration="4951000" />
       <workItem from="1607922866942" duration="4123000" />
       <workItem from="1607958940957" duration="301000" />
+      <workItem from="1609093092906" duration="1156000" />
+      <workItem from="1609133578205" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="- commit">
       <created>1607913602990</created>
@@ -123,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609092873375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- seo변경">
+      <created>1609093036521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609093036521</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +159,7 @@
     <MESSAGE value="-" />
     <MESSAGE value="- 도대체 카프카란?(1) 포스트 추가" />
     <MESSAGE value="- seo추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="- seo추가" />
+    <MESSAGE value="- seo변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="- seo변경" />
   </component>
 </project>
