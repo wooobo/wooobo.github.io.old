@@ -1,12 +1,9 @@
 ---
 ---
 
-/*
-  If the number of TAB files has changed, the following variable is required.
-  And it must be defined before `@import`.
-*/
 $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
-@import "{{ site.theme }}";
+$prompt-older: "{{ site.data.label.post.button.previous }}";
+$prompt-newer: "{{ site.data.label.post.button.next }}";
 
-/* append your custom style below */
+@import "jekyll-theme-chirpy";

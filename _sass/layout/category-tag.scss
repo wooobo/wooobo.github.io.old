@@ -2,46 +2,33 @@
   Style for page Category and Tag
 */
 
-.dash {
-  margin: 0 0.5rem 0.6rem 0.5rem;
-  border-bottom: 2px dotted var(--dash-color);
-}
-
-#page-category,
-#page-tag {
+#page-category, #page-tag {
   ul > li {
     line-height: 1.5rem;
     padding: 0.6rem 0;
-
-    /* dot */
-    &::before {
-      background: #999999;
+    &::before { // dot
+      background: #999;
       width: 5px;
       height: 5px;
       border-radius: 50%;
       display: block;
-      content: '';
+      content: "";
       position: relative;
       top: 0.6rem;
       margin-right: 0.5rem;
     }
-
-    /* post's title */
-    > a {
-      @extend %no-bottom-border;
-
+    > a { /* post's title */
       font-size: 1.1rem;
+      @extend %no-bottom-border;
     }
-
-    /* post's date */
     > span:last-child {
       white-space: nowrap;
     }
+    /* post's date */
   }
 }
 
-/* tag icon */
-#page-tag h1 > i {
+#page-tag h1 > i { // tag icon
   font-size: 1.2rem;
 }
 
@@ -49,24 +36,26 @@
   font-size: 1.25rem;
 }
 
-#page-category,
-#page-tag,
-#access-lastmod {
-  a:hover {
+a:hover {
+  #page-category &,
+  #page-tag &,
+  #access-lastmod & {
     @extend %link-hover;
-
-    margin-bottom: -1px; /* Avoid jumping */
+    margin-bottom: -1px; // Avoid jumping
   }
 }
 
+.dash {
+  margin: 0 .5rem .6rem .5rem;
+  border-bottom: 2px dotted var(--dash-color);
+}
+
 @media all and (max-width: 576px) {
-  #page-category,
-  #page-tag {
+  #page-category, #page-tag {
     ul > li {
       &::before {
-        margin: 0 0.5rem;
+        margin: 0 .5rem;
       }
-
       > a {
         white-space: nowrap;
         overflow: hidden;
