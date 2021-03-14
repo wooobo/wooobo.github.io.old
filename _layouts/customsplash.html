@@ -50,10 +50,23 @@ layout: default
         {% include page__taxonomy.html %}
         {% include page__date.html %}
       </footer>
+      <!--댓글-->
+      <div>
+        <script src="https://utteranc.es/client.js"
+                repo="KTH12/KTH12.github.io"
+                issue-term="pathname"
+                theme="github-dark"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </div>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      <!-- 공유링크 -->
+<!--      {% if page.share %}{% include social-share.html %}{% endif %}-->
 
       {% include post_pagination.html %}
+
+
     </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
