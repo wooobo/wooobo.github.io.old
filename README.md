@@ -1,3 +1,10 @@
+```shell
+$ bundle exec jekyll serve
+$ bundle
+$ bundle install
+
+```
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -114,7 +121,7 @@ To install:
 
    ```ruby
    source "https://rubygems.org"
-
+serve
    gem "github-pages", group: :jekyll_plugins
    gem "jekyll-include-cache", group: :jekyll_plugins
    ```
