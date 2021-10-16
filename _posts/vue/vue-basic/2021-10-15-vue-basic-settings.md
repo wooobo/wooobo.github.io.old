@@ -4,14 +4,6 @@ description:
 layout: archive  
 date: 2021-10-15  
 ---
-```text
-  "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
-{% highlight html%}{% endhighlight %}
-```
 <br>  
 
 # Vue CLI란 뭘까?

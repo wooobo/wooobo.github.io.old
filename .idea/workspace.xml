@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="">
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="post : vue 기본편 (vue cli 알아보기)">
       <change afterPath="$PROJECT_DIR$/_posts/temp/기타파일.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vue-Frame-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vue-serve-page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vuemain1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/yarn-vue-serve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/page-a.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/page-a.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +79,7 @@
       <workItem from="1616330939290" duration="2111000" />
       <workItem from="1634306596155" duration="78000" />
       <workItem from="1634306684826" duration="3603000" />
-      <workItem from="1634340124634" duration="6438000" />
+      <workItem from="1634340124634" duration="6784000" />
     </task>
     <task id="LOCAL-00001" summary="- commit">
       <created>1607913602990</created>
@@ -183,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633345396066</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="post : vue 기본편 (vue cli 알아보기)">
+      <created>1634346800782</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634346800782</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +213,7 @@
     <MESSAGE value="- 구글 애널리틱스 추가" />
     <MESSAGE value="- 댓글 영역 추가" />
     <MESSAGE value="config(_config.yml) : base url 지정" />
-    <option name="LAST_COMMIT_MESSAGE" value="config(_config.yml) : base url 지정" />
+    <MESSAGE value="post : vue 기본편 (vue cli 알아보기)" />
+    <option name="LAST_COMMIT_MESSAGE" value="post : vue 기본편 (vue cli 알아보기)" />
   </component>
 </project>
