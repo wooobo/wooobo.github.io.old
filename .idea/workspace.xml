@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/temp/기타파일.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vue-Frame-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vue-cli3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vue-serve-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vuemain1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/yarn-vue-serve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/page-a.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/page-a.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +29,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/_config.yml" root0="FORCE_HIGHLIGHTING" />
@@ -33,6 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -44,11 +65,11 @@
       <recent name="$PROJECT_DIR$/_pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/vue/vue-basic" />
+      <recent name="$PROJECT_DIR$/_posts/vue" />
       <recent name="$PROJECT_DIR$/_drafts" />
       <recent name="$PROJECT_DIR$/_posts/kafka" />
       <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,6 +88,9 @@
       <workItem from="1615732288659" duration="9000" />
       <workItem from="1615732304910" duration="6000" />
       <workItem from="1616330939290" duration="2111000" />
+      <workItem from="1634306596155" duration="78000" />
+      <workItem from="1634306684826" duration="3603000" />
+      <workItem from="1634340124634" duration="6438000" />
     </task>
     <task id="LOCAL-00001" summary="- commit">
       <created>1607913602990</created>
@@ -178,6 +202,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/minimal-mistakes" />
+    </ignored-roots>
     <MESSAGE value="- commit" />
     <MESSAGE value="- site name change" />
     <MESSAGE value="- add script.sh" />

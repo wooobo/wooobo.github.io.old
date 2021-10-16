@@ -1,8 +1,33 @@
 ```shell
+$ sudo apt install ruby-bundler
+
+# 안될경우 sudo
+$ bundle install
 $ bundle exec jekyll serve
 $ bundle
-$ bundle install
 
+
+```
+```shell
+sudo 없이 gem 쓰기 위해 gem 패키지가 생성될 폴더 만들기
+mkdir .gems
+# Install Ruby Gems to ~/gems
+export GEM_HOME="$HOME/.gems"
+export PATH="$HOME/.gems/bin:$PATH"
+
+Jekyll과 Bundler 설치
+gem install jekyll bundler
+
+Theme에 따른 의존성 설치
+bundle install
+
+Jekyll 실행하기
+jekyll serve
+
+
+jekyll serve # 기본
+jekyll serve --livereload # 자동 새로고침
+jekyll serve --port 5000 # 수동으로 포트 지정
 ```
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
