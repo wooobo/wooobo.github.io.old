@@ -82,4 +82,4 @@ localhost:8080 접속해보기
 ![img.png]({{ "assets/images/vue-serve-page.png" | relative_url }})
 
 
-> 빠르게 vue-cli 를 통해 vue 스캐폴딩 구조로 설치해보고 서버를 띄워 보았습니다.
+빠르게 vue-cli 를 통해 vue 스캐폴딩 구조로 설치해보고 서버를 띄워 보았습니다.
