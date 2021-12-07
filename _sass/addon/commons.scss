@@ -43,45 +43,6 @@ body {
   font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
 
-/* --- Scrollbar --- */
-
-$scrollbar-size: 7px;
-
-::-webkit-scrollbar {
-  width: $scrollbar-size;
-  height: $scrollbar-size;
-}
-
-::-webkit-scrollbar-track {
-  @at-root body#{&} {
-    -webkit-box-shadow: inset 0 0 6px var(--scrollbar-track-bg);
-  }
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: var(--scrollbar-thumb-bg);
-  border-radius: calc(#{$scrollbar-size} / 2);
-}
-
-.highlight {
-  border-color: transparent;
-  transition: border-color 0.5s ease;
-
-  &:hover {
-    border-color: var(--scrollbar-thumb-bg);
-    transition: border-color 0.2s ease;
-  }
-
-  &::-webkit-scrollbar-thumb {
-    /* add border to act as background-color */
-    border-right-style: inset;
-    border-right-width: calc(100vw + 100vh);
-    border-color: inherit;
-    background-color: var(--highlight-bg-color);
-  }
-
-}
-
 /* --- Typography --- */
 
 h1 {
@@ -191,6 +152,33 @@ i { // fontawesome icons
   &.far,
   &.fas {
     @extend %no-cursor;
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+img[data-src] {
+  margin: 0.5rem 0;
+
+  &[data-loaded=true] {
+    animation: fade-in linear 0.5s;
+  }
+
+  &.left {
+    float: left;
+    margin: 0.75rem 1rem 1rem 0;
+  }
+
+  &.right {
+    float: right;
+    margin: 0.75rem 0 1rem 1rem;
+  }
+
+  &.shadow {
+    filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.08));
   }
 }
 
@@ -377,11 +365,26 @@ i { // fontawesome icons
     margin-bottom: 1.5rem;
   }
 
-  a:hover {
-    code {
-      @extend %link-hover;
+  a {
+    &.img-link {
+      @extend %no-cursor;
     }
-  }
+
+    &.popup { // created by `_includes/img-extra.html`
+      cursor: zoom-in;
+
+      > img[data-src]:not(.normal):not(.left):not(.right) {
+        @include align-center;
+      }
+    }
+
+    &:hover {
+      code {
+        @extend %link-hover;
+      }
+    }
+  } // a
+
 }
 
 .pageviews .fa-spinner {
@@ -414,47 +417,6 @@ i { // fontawesome icons
   overflow-wrap: break-word;
   word-wrap: break-word;
 
-  @mixin caption {
-    + em {
-      display: block;
-      text-align: center;
-      font-style: normal;
-      font-size: 80%;
-      padding: 0;
-      color: #6d6c6c;
-    }
-  }
-
-  @keyframes fade-in {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  img[data-src] {
-    margin: 0.5rem 0;
-
-    &[data-loaded=true] {
-      animation: fade-in linear 0.5s;
-    }
-
-    &.left {
-      float: left;
-      margin: 0.75rem 1rem 1rem 0;
-    }
-
-    &.right {
-      float: right;
-      margin: 0.75rem 0 1rem 1rem;
-    }
-
-    &.shadow {
-      filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.08));
-    }
-
-    @include caption;
-
-  }
-
   a {
     &:not(.img-link) {
       @extend %link-underline;
@@ -464,21 +426,16 @@ i { // fontawesome icons
       }
     }
 
-    &.popup { // created by `_includes/img-extra.html`
-      cursor: zoom-in;
-
-      > img[data-src]:not(.normal):not(.left):not(.right) {
-        @include align-center;
-      }
+    &.img-link + em {
+      display: block;
+      text-align: center;
+      font-style: normal;
+      font-size: 80%;
+      padding: 0;
+      color: #6d6c6c;
     }
 
-    &.img-link {
-      @include caption;
-
-      @extend %no-cursor;
-    }
-
-  } // a
+  }
 
   ul {
     // attribute 'hide-bullet' was added by liquid
@@ -818,7 +775,6 @@ $sidebar-display: "sidebar-display";
   } // ul
 
   .sidebar-bottom {
-    font-size: 1.2rem;
     margin-bottom: 2.1rem;
 
     @include ml-mr(auto);
@@ -835,19 +791,26 @@ $sidebar-display: "sidebar-display";
     }
 
     i {
-      line-height: 1.75rem; // default line-height in body
-      vertical-align: middle;
+      font-size: 1.2rem;
+      line-height: 1.75rem;
     }
 
-    #mode-toggle-wrapper {
-      @extend %icon;
+    .mode-toggle {
+      padding: 0;
+      border: 0;
+      margin-bottom: 1px;
+      background-color: transparent;
 
-      i {
-        @extend %sidebar-links;
-        @extend %cursor-pointer;
+      @extend %icon;
+      @extend %sidebar-links;
+
+      > i {
         @extend %clickable-transition;
       }
 
+      &:hover > i {
+        color: var(--sidebar-active-color);
+      }
     }
 
     .icon-border {
@@ -858,10 +821,6 @@ $sidebar-display: "sidebar-display";
       width: 3px;
       height: 3px;
       border-radius: 50%;
-    }
-
-    #mode-toggle-wrapper:hover > i {
-      color: var(--sidebar-active-color);
     }
 
   } // .sidebar-bottom
@@ -1683,6 +1642,7 @@ $sidebar-display: "sidebar-display";
       }
 
       > span,
+      > button.mode-toggle,
       > a {
         @include ml-mr(0.15rem);
 
