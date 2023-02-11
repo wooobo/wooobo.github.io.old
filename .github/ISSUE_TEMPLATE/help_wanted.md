@@ -1,28 +1,24 @@
 ---
 name: Help Wanted
-about: Need help that is not covered in the tutorial
+about: Need help
 labels: 'help wanted'
 ---
 
-**NOTE:** Before you start, the following should be completed.
+We sincerely recommend that you first complete the following checklist:
 
-- Read [Wiki][wiki] to understand the usage and the correct effect of functional design.
-- Make sure no [similar issue(including closed ones)][issues] exists.
-- Try to find the answer on [Jekyll Forum][forum] and [StackOverflow][stack_overflow].
-
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[issues]: https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue
-[forum]: https://talk.jekyllrb.com/
-[stack_overflow]: https://stackoverflow.com/questions/tagged/jekyll
+- Read the [tutorials](https://cotes2020.github.io/chirpy-demo/categories/tutorial/) and know the correct effect of the functional design.
+- No similar [issue](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue)(including closed ones) exists
+- Try to find the answer on [Jekyll Forum](https://talk.jekyllrb.com/) and [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll).
+- The ask is based on the latest code of the `master` branch.
 
 ## Description
 
 <!-- Please describe your need in detail. -->
 
-## Operations you have already tried
+## What you have tried
 
-<!-- Describe the effort you went through. -->
+<!-- 
+  Describe the steps you went through, such as the configuration process. 
 
-## Logs/Screenshots
-
-<!-- If applicable, add logs/screenshots to help explain your problem. -->
+  If needed, please attach output logs, screenshots, etc. to describe your issue.
+-->
