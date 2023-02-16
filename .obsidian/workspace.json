@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "368d52e8f4b11f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31016b52cec752e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2143eebef038de24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce009f14bcfdca94",
+    "type": "split",
+    "children": [
+      {
+        "id": "d05d5d0f33ea9438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f04d91ebdf51cdb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fdc1814e279edf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78dfa000ec568a25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38381b80a432f15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d7215ef619df960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5975ae6a0d455e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82df42fce1b3acce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051f1bb6da6a772c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd47b14cad90f860",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2143eebef038de24",
+  "lastOpenFiles": [
+    "{{.md",
+    "_posts/kafka/2021-03-14-kafka-connect-action.md",
+    "_posts/kafka/2020-12-22-kafka-consumer-group.md",
+    "_posts/myproject/2021-03-21-map-direction-failure-experience.md",
+    "_posts/kafka/2022-01-11-kafka-debezium-cdc.md",
+    "_posts/kafka/2021-03-14-what-is-kafka-connect.md",
+    "_posts/kafka/2020-12-21-kafka-partition.md",
+    "_posts/kafka/2020-12-20-kafka-quick-start.md",
+    "_posts/security/2022-01-29-xss.md",
+    "_posts/security/2022-01-29-csrf.md"
+  ]
+}
