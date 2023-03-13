@@ -4,8 +4,7 @@ import {
   initLocaleDatetime,
   initClipboard,
   smoothScroll,
-  initPageviews,
-  toc
+  initPageviews
 } from './modules/plugins';
 
 basic();
@@ -14,6 +13,5 @@ initTopbar();
 imgExtra();
 initLocaleDatetime();
 initClipboard();
-toc();
-smoothScroll(); // must be called after toc is created
+smoothScroll();
 initPageviews();
