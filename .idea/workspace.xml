@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="error issue">
-      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" afterDir="false" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="참조 링크 빌드에러때문에 제거">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +56,11 @@
       <recent name="$PROJECT_DIR$/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/commons" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_posts/vue/vue-basic" />
-      <recent name="$PROJECT_DIR$/_posts/vue" />
     </key>
   </component>
   <component name="RunManager">
@@ -250,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680598206682</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="참조 링크 빌드에러때문에 제거">
+      <created>1680598384796</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598384796</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +293,7 @@
     <MESSAGE value="setting" />
     <MESSAGE value="add sitemap.xml" />
     <MESSAGE value="error issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="error issue" />
+    <MESSAGE value="참조 링크 빌드에러때문에 제거" />
+    <option name="LAST_COMMIT_MESSAGE" value="참조 링크 빌드에러때문에 제거" />
   </component>
 </project>
