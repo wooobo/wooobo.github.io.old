@@ -1,68 +1,68 @@
 ---
-name: "Bug Report"
-about: "Is something not working as expected?"
+name: Bug Report
+about: Create a report to help us improve
 ---
 
+**NOTE:** Before you start, the following should be completed.
+
+- Read [Wiki][wiki] to understand the usage and the correct effect of functional design.
+- Make sure no [similar issue(including closed ones)][issues] exists.
+- Make sure the bug is found in the latest code of the `master` branch.
+
+[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
+[issues]: https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue
+
+## Describe the bug
+
+<!-- A clear and concise description of what the bug is. -->
+
+## To Reproduce
+
+Steps to reproduce the behavior:
 <!--
-  Before opening a new issue please:
-  
-  - Verify you have the latest versions of Jekyll and Minimal Mistakes 
-    installed by running `bundle update`.
-  - Thoroughly read the theme's documentation at
-    https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - Search all issues at https://github.com/mmistakes/minimal-mistakes/issues 
-    for solutions and to avoid duplication.
-  - Ask for help at http://talk.jekyllrb.com/
-  
-  After exhausting these suggestions use the format below.
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 -->
-
-## Environment
-
-<!--
-  Please include theme version, Jekyll version, public git repository, whether 
-  you are hosting with GitHub Pages, and the operating system you tested with.
-
-  Issues without a link to a public repository or ZIP file will likely go ignored.
-  Being able to see your actual files is necessary to troubleshoot, as most 
-  issues stem from invalid/missing YAML Front Matter, a mis-configured _config.sys 
-  file, or problematic site content. 
--->
-
-- Minimal Mistakes version:
-- Ruby gem or remote theme version:
-- Jekyll version:
-- Git repository URL:
-- GitHub Pages hosted (if yes provide URL to site):
-- Operating system:
 
 ## Expected behavior
 
-<!--
-  What is it you expected to happen? This should be a description of how the
-  functionality you tried to use is supposed to work.
+<!-- A clear and concise description of what you expected to happen. -->
+
+## Logs/Screenshots
+
+<!-- If applicable, add logs/screenshots to help explain your problem. -->
+
+## Environment
+
+| Command                           | Version |
+|-----------------------------------|---------|
+| `ruby -v`                         |         |
+| `gem -v`                          |         |
+| `bundle -v`                       |         |
+| `bundle exec jekyll -v`           |         |
+| `bundle info jekyll-theme-chirpy` |         |
+
+<!-- If necessary, uncomment and fill in the following list:
+
+### Desktop
+
+- OS: [e.g. macOS 10.15.6]
+- Browser: [e.g. Chrome 85.0.4183.83 (64-bit)]
+
 -->
 
-## Steps to reproduce the behavior
+<!-- If necessary, uncomment and fill in the following list:
 
-<!--
-  Describe the steps you took for this problem to exist. Such as: you installed
-  the theme, customized _config.yml, added your own posts, and started up a 
-  Jekyll server locally.
+### Smartphone
 
-  If an error occurred on GitHub Pages when pushing, please test a local version
-  following these setup instructions: 
-  https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+- Device: [e.g. iPhone 6]
+- OS: [e.g. iOS 13.6.1]
+- Browser: [e.g. Chrome 22]
 
-  Then provide a complete log by running `bundle exec jekyll build --trace --verbose` 
-  and include this output in the filed issue.
-
-  Screenshots can also be included if they help illustrate a behavior.
 -->
 
-## Other
+## Additional context
 
-<!--
-  NOTE: Please provide a code repository, gist, code snippet, sample files, 
-  screenshots, or anything else you think will aid in reproducing the issue.
--->
+<!-- Add any other context about the problem here. -->
