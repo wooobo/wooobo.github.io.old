@@ -41,7 +41,7 @@ social:
   email: slowin406@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-#    - https://twitter.com/username # change to your twitter homepage
+    #    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/wooobo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -176,7 +176,7 @@ compress_html:
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [ development ]
 
 exclude:
   - "*.gem"
@@ -190,10 +190,13 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [ categories, tags ]
   layouts:
     category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - html-proofer
