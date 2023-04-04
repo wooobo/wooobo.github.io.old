@@ -4,6 +4,7 @@ layout: page
 ---
 
 <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
+
   {% assign tags = "" | split: "" %}
   {% for t in site.tags %}
     {% assign tags = tags | push: t[0] %}
@@ -13,10 +14,8 @@ layout: page
 
   {% for t in sorted_tags %}
     <div>
-
-
       <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
-        {{ t }}<span class="text-muted" >{{ site.tags[t].size }}</span>
+        {{ t }}<span class="text-muted">{{ site.tags[t].size }}</span>
       </a>
     </div>
   {% endfor %}
