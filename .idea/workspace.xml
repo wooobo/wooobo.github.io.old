@@ -4,91 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="post : vue 기본편 (vue cli 알아보기)">
-      <change afterPath="$PROJECT_DIR$/_posts/aws/2021-12-01-망분리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/aws/2021-12-01-망분리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/codeConventions/2021-11-09-method-naming-conventions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-01-what-is-Iterator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-05-collections-unmodifiableList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-05-java-enum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-08-JUnit -Parameterized-test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-10-정적-메소드-팩토리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-12-builder-pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-21-jpa-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/java/2022-01-13-spring-mvc-servlet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-21-kafka-partition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2021-03-14-kafka-connect-action.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2021-03-14-what-is-kafka-connect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2022-01-11-kafka-debezium-cdc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/myproject/2021-03-21-map-direction-failure-experience.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-10-30-oop-capsule-demeter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-10-31-object-calisthenics-summary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-11-03-object-calisthenics-summary-object-wrap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/security/2022-01-29-csrf.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/security/2022-01-29-xss.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/solid/2021-10-16-SOLID-OCP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/solid/2021-10-16-SOLID-SRP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/sorts/2021-10-19-bubble-sort-and-selectionsort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/tdd/2021-11-24-tdd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/tdd/2022-01-12-unit-testing-01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/old/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/aws-vpc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/consumer-group-producer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/consumer-group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/jpa-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/jpa-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kafka-basic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kafka-offset-lag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kafka-service.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kafkabasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kafkaconnectgif.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/kakaomapdirection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mapdirection01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mapdirectionautosearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solid-uml04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solid-uml05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/spring-dispatcherServlet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/tdd1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/tdd2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/tdd4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-ec2-create-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-vpc-list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-vpc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnect-create-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-create-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-create01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/google-connect-ok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/google-ping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/igw-vpc-connect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/qwdqd1da.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-create.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-route-list01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-route-list02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vpc/vpc-cidr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vue-Frame-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vue-serve-page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vuemain1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/yarn-vue-serve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/오늘은여기까지.png" afterDir="false" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="old blog add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,11 +58,11 @@
       <recent name="$PROJECT_DIR$/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_posts/vue/vue-basic" />
       <recent name="$PROJECT_DIR$/_posts/vue" />
-      <recent name="$PROJECT_DIR$/_drafts" />
-      <recent name="$PROJECT_DIR$/_posts/kafka" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunManager">
@@ -303,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634346800782</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="old blog add">
+      <created>1680595848711</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680595848711</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +263,7 @@
     <MESSAGE value="- 댓글 영역 추가" />
     <MESSAGE value="config(_config.yml) : base url 지정" />
     <MESSAGE value="post : vue 기본편 (vue cli 알아보기)" />
-    <option name="LAST_COMMIT_MESSAGE" value="post : vue 기본편 (vue cli 알아보기)" />
+    <MESSAGE value="old blog add" />
+    <option name="LAST_COMMIT_MESSAGE" value="old blog add" />
   </component>
 </project>
