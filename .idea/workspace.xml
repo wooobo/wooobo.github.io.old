@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="post : vue 기본편 (vue cli 알아보기)">
-      <change afterPath="$PROJECT_DIR$/_posts/temp/기타파일.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/aws/2021-12-01-망분리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/aws/2021-12-01-망분리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/codeConventions/2021-11-09-method-naming-conventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-01-what-is-Iterator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-05-collections-unmodifiableList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-05-java-enum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-08-JUnit -Parameterized-test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-10-정적-메소드-팩토리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-12-builder-pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2021-11-21-jpa-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/java/2022-01-13-spring-mvc-servlet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-21-kafka-partition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2021-03-14-kafka-connect-action.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2021-03-14-what-is-kafka-connect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/kafka/2022-01-11-kafka-debezium-cdc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/myproject/2021-03-21-map-direction-failure-experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-10-30-oop-capsule-demeter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-10-31-object-calisthenics-summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/oop/2021-11-03-object-calisthenics-summary-object-wrap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/security/2022-01-29-csrf.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/security/2022-01-29-xss.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/solid/2021-10-16-SOLID-OCP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/solid/2021-10-16-SOLID-SRP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/sorts/2021-10-19-bubble-sort-and-selectionsort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/tdd/2021-11-24-tdd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/tdd/2022-01-12-unit-testing-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/old/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/aws-vpc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/consumer-group-producer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/consumer-group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/jpa-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/jpa-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kafka-basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kafka-offset-lag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kafka-service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kafkabasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kafkaconnectgif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/kakaomapdirection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/mapdirection01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/mapdirectionautosearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solid-s-uml03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solid-uml04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solid-uml05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/spring-dispatcherServlet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tdd1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tdd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tdd4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-ec2-create-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-vpc-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/awc-vpc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnect-create-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-create-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-create01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/aws-subnet-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/ec2-create-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/google-connect-ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/google-ping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/igw-vpc-connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/qwdqd1da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-create.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-route-list01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/rt-route-list02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vpc/vpc-cidr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vue-Frame-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vue-cli3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vue-serve-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/vuemain1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/yarn-vue-serve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/오늘은여기까지.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/vue/vue-basic/2021-10-15-vue-basic-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +120,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/kangtaehwa/wooobo.github.io/_posts/old",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "prettier.import.notification.dismissed": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_posts/old" />
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/vue/vue-basic" />
@@ -60,6 +145,45 @@
       <recent name="$PROJECT_DIR$/_posts/kafka" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="prewatch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="prewatch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.watch" />
+        <item itemvalue="npm.prewatch" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -195,7 +319,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
