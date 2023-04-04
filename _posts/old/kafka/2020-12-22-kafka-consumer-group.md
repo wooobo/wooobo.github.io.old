@@ -83,7 +83,5 @@ my-first-group  partition-first-topic 0          12              13             
 | *출처 https://www.confluent.io/* |
 
 
-#### <참조링크>
-
 
 [tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client](https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client/)

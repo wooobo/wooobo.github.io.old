@@ -50,9 +50,6 @@ $ bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server loc
 [카프카 설명 동영상](https://www.youtube.com/watch?v=FKgi3n-FyNU&feature=emb_title) 해당 영상을 통해 카프카에 대해서 좀 더 쉽게 알 수 있습니다.
 
 
-#### <참조링크>
-
-
 [카프카 웹 사이트](https://kafka.apache.org/quickstart#quickstart_createtopic)
 
 

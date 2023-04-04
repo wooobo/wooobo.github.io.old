@@ -73,9 +73,6 @@ date: 2020-12-15
 
 ----------
 
-#### <참조링크>  
-
-
 [카프카 웹 사이트](http://kafka.apache.org/)  
 [real-time-stream-processing-with-apache-kafka-part-1](https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part-1)
 
