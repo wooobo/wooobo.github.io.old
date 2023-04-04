@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="참조 링크 빌드에러때문에 제거">
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="add avatar.png">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pages-deploy.yml.hook" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pages-deploy.yml.hook" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680598384796</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add avatar.png">
+      <created>1680598701719</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598701719</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +302,7 @@
     <MESSAGE value="add sitemap.xml" />
     <MESSAGE value="error issue" />
     <MESSAGE value="참조 링크 빌드에러때문에 제거" />
-    <option name="LAST_COMMIT_MESSAGE" value="참조 링크 빌드에러때문에 제거" />
+    <MESSAGE value="add avatar.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="add avatar.png" />
   </component>
 </project>
