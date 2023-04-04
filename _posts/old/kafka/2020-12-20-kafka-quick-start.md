@@ -51,6 +51,8 @@ $ bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server loc
 
 
 #### <참조링크>
+
+
 [카프카 웹 사이트](https://kafka.apache.org/quickstart#quickstart_createtopic)
 
 

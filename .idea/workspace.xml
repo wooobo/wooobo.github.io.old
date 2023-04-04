@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="setting">
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="add sitemap.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-15-what-is-kafka-01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-20-kafka-quick-start.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/old/kafka/2020-12-22-kafka-consumer-group.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680596700393</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add sitemap.xml">
+      <created>1680597123126</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680597123126</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +282,7 @@
     <MESSAGE value="post : vue 기본편 (vue cli 알아보기)" />
     <MESSAGE value="old blog add" />
     <MESSAGE value="setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting" />
+    <MESSAGE value="add sitemap.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sitemap.xml" />
   </component>
 </project>
