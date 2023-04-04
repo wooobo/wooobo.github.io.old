@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="old blog add">
+    <list default="true" id="cd875930-206d-465f-9443-76d5aad25b2a" name="Default Changelist" comment="setting">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680595848711</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="setting">
+      <created>1680596700393</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680596700393</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +270,7 @@
     <MESSAGE value="config(_config.yml) : base url 지정" />
     <MESSAGE value="post : vue 기본편 (vue cli 알아보기)" />
     <MESSAGE value="old blog add" />
-    <option name="LAST_COMMIT_MESSAGE" value="old blog add" />
+    <MESSAGE value="setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting" />
   </component>
 </project>
